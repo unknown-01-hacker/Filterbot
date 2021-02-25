@@ -21,19 +21,19 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "861055237"
+      "value": "1530396450"
     },
     "START_PHOTTO": {
       "description": "Telegraph img url For Start Cmd",
-      "value": ""
+      "value": "https://telegra.ph/file/948928fbfabd3607e3b73.jpg"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "No_OnE_Kn0wS_Me"
+      "value": "Raja_Kannada_Admin"
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "Hitsuka"
+      "value": "🄿🅁🅄🅃🄷🅅🄸 🅁🄰🄹"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -49,15 +49,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "80954677 861055237"
+      "value": "1350564182 1530396450"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "80954677 861055237"
+      "value": "1350564182 1530396450"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "80954677 861055237"
+      "value": "1350564182 1530396450"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
